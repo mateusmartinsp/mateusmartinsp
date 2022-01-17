@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xPepper
+- 👋 Hi, I’m @xPepper / Mateus Pimenta /  Nice to meet you!
 - 👀 I’m interested in programing and learning it all as of now!
 - 🌱 I’m currently working as Ti Manager
 - 📫 How to reach me > mateuspimartins@hotmail.com
