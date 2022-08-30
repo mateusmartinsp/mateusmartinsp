@@ -27,7 +27,7 @@
 ## 📊 Estatísticas
 <div align="center">
   <a href="https://github.com/xPimenta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xPimenta&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xPimenta&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPimenta&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
