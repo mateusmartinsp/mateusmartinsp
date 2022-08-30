@@ -24,15 +24,9 @@
   
  </div>
 
-## 🗿 Stats 
-
-<br/>
-
-<div align="">   
-
-  <img src="http://github-readme-stats.vercel.app/api?username=xPimenta&theme=radical&custom_title=Pimenta's-GitHub Stats&include_all_commits=true&count_private=true" height="180rem"/>
-  <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=xPimenta&layout=compact&theme=radical&custom_title=Most used languages&include_all_commits=true&count_private=true&langs_count=6" height="180em"/>
-
+## 📊 Estatísticas
+<div align="center">
+  <a href="https://github.com/lusntgo"></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xPimenta&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPimenta&layout=compact&langs_count=16&theme=radical"/> <br>
 </div>
-
-###
