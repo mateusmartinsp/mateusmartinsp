@@ -34,7 +34,7 @@
 <div align="">   
   
   <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=xPimenta&layout=compact&theme=tokyonight&custom_title=Most used languages&include_all_commits=true&count_private=true&langs_count=6&bg_color=0d1117&hide_border=true" height="180em"/>
-  <img src="http://github-readme-stats.vercel.app/api?username=xPimenta&theme=tokyonight&custom_title=Celso's GitHub Stats&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true" height="180rem"/>
+  <img src="http://github-readme-stats.vercel.app/api?username=xPimenta&theme=tokyonight&custom_title=Pimenta's GitHub Stats&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true" height="180rem"/>
   
 </div>
 
