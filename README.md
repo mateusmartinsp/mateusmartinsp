@@ -9,7 +9,7 @@
 
 <br/>
 
-<div align="">
+<div align="center">
   
   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
   [![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/docs/)
@@ -25,13 +25,13 @@
  </div>
 
 ## 📊 Estatísticas
-<div>
+<div align="center">
   <a href="https://github.com/xPimenta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xPimenta&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPimenta&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-</div>
+</div align="center">
 
 
 
