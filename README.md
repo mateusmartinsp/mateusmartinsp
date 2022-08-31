@@ -46,6 +46,6 @@
   <a href="https://www.linkedin.com/in/mat-pimenta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br><br>
- <div>
+ <div align="center">
   <img align="center" alt="Pixel-Art" width="800px" src="https://github.com/xPimenta/xPimenta/blob/main/files/coding.gif"/>
 </div>
