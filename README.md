@@ -2,7 +2,7 @@
 
 - 💾 IT Manager in a Online College in Brazil
 - 🚀 Student in a Full-Stack Web Development Bootcamp with <a href="https://www.driven.com.br">Driven Education</a>  
-- 📖 I'm currently learning Docker and AWS
+- 📖 I'm currently learning POO.
 - 🧙‍♂️ I'm curious about technology, music and i love reading
 
 ## 🛠️ Skills & Tools
@@ -24,7 +24,7 @@
   
  </div>
 
-## 📊 Estatísticas
+## 📊 Stats
 <div align="center">
   <a href="https://github.com/xPimenta">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xPimenta&show_icons=true&theme=radical"/>
@@ -37,9 +37,9 @@
 ![Snake animation](https://github.com/LuSntgo/LuSntgo/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-  ## 📫 Contatos
+  ## 📫 Contact
 
- Se precisar de ajuda ou tiver dúvidas e sugestões, entre em contato comigo 😉 
+ If you need help or have questions and suggestions, please contact me. 😉 
 
 <div align="center"> 
    <a href = "mailto:mateuspimartins@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
