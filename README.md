@@ -27,7 +27,7 @@
 ## 📊 Stats
 <div align="center">
   <a href="https://github.com/xPimenta">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xPimenta&show_icons=true&theme=radical"/>
+<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xPimenta&show_icons=true&theme=radical"/> -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPimenta&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
