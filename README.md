@@ -1,8 +1,8 @@
 ## 👋 Hi there! I'm Mateus Pimenta
 
-- 💾 IT Manager in a Online College in Brazil
-- 🚀 Student in a Full-Stack Web Development Bootcamp with <a href="https://www.driven.com.br">Driven Education</a>  
-- 📖 I'm currently learning POO.
+- 💾 Software Engineer working in Tipspace
+- 🚀 Full Stack
+- 📖 I'm currently studying Artificial Inteligence and Machine Learning
 - 🧙‍♂️ I'm curious about technology, music and i love reading
 
 ## 🛠️ Skills & Tools
