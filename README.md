@@ -31,10 +31,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPimenta&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-</div align="center">
-
+<!--</div>
 ![Snake animation](https://github.com/LuSntgo/LuSntgo/blob/output/github-contribution-grid-snake.svg)
-</div>
+</div>-->
 
   ## 📫 Contact
 
