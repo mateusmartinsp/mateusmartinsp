@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Mateus Martins
 
-- 💾 Software Engineer working in Tipspace
+- 💾 Software Engineer working at The Athletic
 - 🚀 Full Stack
 - 📖 I'm currently studying Artificial Inteligence and Machine Learning
 - 🧙‍♂️ I'm curious about technology, music and i love reading
